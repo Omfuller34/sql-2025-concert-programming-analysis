@@ -66,7 +66,7 @@ Query results were pasted into Excel (**Tab 2** of the attached spreadsheet). Th
 
 ## John Williams Work Consolidation
 
-Initial results showed a disproportionately high number of distinct works for **John Williams**. Further investigation revealed that OPAS treats excerpts from different films, and sometimes multiple excerpts from the same film, as separate works.
+Initial results showed a disproportionately high number of distinct works for **John Williams**. Further investigation revealed that OPAS treats multiple excerpts from the same film as separate works.
 
 For marketing purposes, each **film** was treated as a single work.
 
